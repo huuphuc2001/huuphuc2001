@@ -1,5 +1,6 @@
 ## Introduction
 
+<img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='200'>
 <p align="center">
 <a href="https://github.com/huuphuc2001"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=EAF714&background=4522FF00&center=true&vCenter=true&random=false&width=700&height=45&lines=I+am+a+backend+developer;Server+System+Development+and+Maintenance;Performance+Optimization+and+Assurance" alt="Typing SVG" /></a>
 </p>
